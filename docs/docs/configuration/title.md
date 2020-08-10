@@ -69,3 +69,7 @@ var chart = new Chart(ctx, {
     }
 });
 ```
+hi
+how can i fix?
+title align "end" not working
+Thank you!
